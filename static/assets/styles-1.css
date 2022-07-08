@@ -1,0 +1,20 @@
+.seated-event-link1,
+.seated-event-link1:visited,
+.seated-event-link2,
+.seated-event-link2:visited {
+   background: white !important;
+   color: rgba (255, 255, 255, 1) !important;
+}
+
+.seated-event-link1:hover,
+.seated-event-link2:hover {
+  border: solid 2px #fff !important;
+  color: black !important;
+  background: white !important;
+}
+
+.seated-event-description-cells,
+.seated-events-table {
+    color: white !important;
+}
+

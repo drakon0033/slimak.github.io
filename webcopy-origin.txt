@@ -1,316 +1,272 @@
-Uri: https://spworlds.ru/
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\index.htm
-Content Type: text/html
-
-Uri: https://spworlds.ru/cdn-cgi/images/browser-bar.png?1376755637
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\images\browser-bar.png
-Content Type: image/png
-
-Uri: https://spworlds.ru/cdn-cgi/images/cf-icon-browser.png
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\images\cf-icon-browser.png
-Content Type: image/png
-
-Uri: https://spworlds.ru/cdn-cgi/images/cf-icon-cloud.png
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\images\cf-icon-cloud.png
-Content Type: image/png
-
-Uri: https://spworlds.ru/cdn-cgi/images/cf-icon-error.png
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\images\cf-icon-error.png
-Content Type: image/png
-
-Uri: https://spworlds.ru/cdn-cgi/images/cf-icon-horizontal-arrow.png
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\images\cf-icon-horizontal-arrow.png
-Content Type: image/png
-
-Uri: https://spworlds.ru/cdn-cgi/images/cf-icon-ok.png
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\images\cf-icon-ok.png
-Content Type: image/png
-
-Uri: https://spworlds.ru/cdn-cgi/images/cf-icon-server.png
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\images\cf-icon-server.png
-Content Type: image/png
-
-Uri: https://spworlds.ru/cdn-cgi/images/cf-no-screenshot-error.png
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\images\cf-no-screenshot-error.png
-Content Type: image/png
-
-Uri: https://spworlds.ru/cdn-cgi/images/cf-no-screenshot-warn.png
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\images\cf-no-screenshot-warn.png
-Content Type: image/png
-
-Uri: https://spworlds.ru/cdn-cgi/images/icon-exclamation.png?1376755637
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\images\icon-exclamation.png
-Content Type: image/png
-
-Uri: https://spworlds.ru/cdn-cgi/l/email-protection
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\l\email-protection.html
-Content Type: text/html
-
-Uri: https://spworlds.ru/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
-Content Type: application/javascript
-
-Uri: https://spworlds.ru/cdn-cgi/styles/cf.errors.css
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\styles\cf.errors.css
+Uri: https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\ajax\libs\normalize\7.0.0\normalize.min-1.css
 Content Type: text/css
 
-Uri: https://spworlds.ru/img/5opka.webp
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\5opka.webp
-Content Type: image/webp
+Uri: https://code.jquery.com/jquery-1.12.4.min.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\jquery-1.12.4.min-1.js
+Content Type: application/javascript
 
-Uri: https://spworlds.ru/img/apple-icon-180.png
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-icon-180.png
-Content Type: image/png
-
-Uri: https://spworlds.ru/img/apple-splash-1125-2436.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-1125-2436.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/apple-splash-1136-640.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-1136-640.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/apple-splash-1170-2532.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-1170-2532.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/apple-splash-1242-2208.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-1242-2208.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/apple-splash-1242-2688.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-1242-2688.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/apple-splash-1284-2778.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-1284-2778.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/apple-splash-1334-750.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-1334-750.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/apple-splash-1536-2048.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-1536-2048.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/apple-splash-1620-2160.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-1620-2160.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/apple-splash-1668-2224.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-1668-2224.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/apple-splash-1668-2388.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-1668-2388.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/apple-splash-1792-828.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-1792-828.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/apple-splash-2048-1536.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-2048-1536.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/apple-splash-2048-2732.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-2048-2732.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/apple-splash-2160-1620.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-2160-1620.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/apple-splash-2208-1242.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-2208-1242.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/apple-splash-2224-1668.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-2224-1668.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/apple-splash-2388-1668.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-2388-1668.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/apple-splash-2436-1125.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-2436-1125.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/apple-splash-2532-1170.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-2532-1170.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/apple-splash-2688-1242.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-2688-1242.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/apple-splash-2732-2048.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-2732-2048.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/apple-splash-2778-1284.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-2778-1284.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/apple-splash-640-1136.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-640-1136.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/apple-splash-750-1334.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-750-1334.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/apple-splash-828-1792.jpg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-828-1792.jpg
-Content Type: image/jpeg
-
-Uri: https://spworlds.ru/img/logo.png
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\logo.png
-Content Type: image/png
-
-Uri: https://spworlds.ru/img/logo.svg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\logo.svg
-Content Type: image/svg+xml
-
-Uri: https://spworlds.ru/img/mastercard.svg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\mastercard.svg
-Content Type: image/svg+xml
-
-Uri: https://spworlds.ru/img/mir.svg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\mir.svg
-Content Type: image/svg+xml
-
-Uri: https://spworlds.ru/img/tinkoff.svg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\tinkoff.svg
-Content Type: image/svg+xml
-
-Uri: https://spworlds.ru/img/visa.svg
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\visa.svg
-Content Type: image/svg+xml
-
-Uri: https://spworlds.ru/info/dogovor
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\info\dogovor.html
-Content Type: text/html
-
-Uri: https://spworlds.ru/info/oplata
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\info\oplata.html
-Content Type: text/html
-
-Uri: https://spworlds.ru/info/privacy
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\info\privacy.html
-Content Type: text/html
-
-Uri: https://spworlds.ru/manifest.json
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\manifest.json
-Content Type: application/json
-
-Uri: https://spworlds.ru/_app/immutable/assets/pages/__layout.svelte-0b723b63.css
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\assets\pages\__layout.svelte-0b723b63.css
+Uri: https://fonts.googleapis.com/css?family=Bowlby+One+SC
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\css-3
 Content Type: text/css
 
-Uri: https://spworlds.ru/_app/immutable/chunks/api-f05df814.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\api-f05df814.js
+Uri: https://fonts.googleapis.com/css?family=Eczar
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/bowlbyonesc/v19/DtVlJxerQqQm37tzN3wMug9P_g_2pw.ttf
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\s\bowlbyonesc\v19\DtVlJxerQqQm37tzN3wMug9P_g_2pw-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/eczar/v16/BXR2vF3Pi-DLmxcpJB-qbNTyTMDXHd6mrjgR.ttf
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\s\eczar\v16\BXR2vF3Pi-DLmxcpJB-qbNTyTMDXHd6mrjgR-1.ttf
+Content Type: font/ttf
+
+Uri: https://g59records.com/artists
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\artists.html
+Content Type: text/html
+
+Uri: https://g59records.com/artists/suicideboys
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\artists\suicideboys.html
+Content Type: text/html
+
+Uri: https://g59records.com/static/assets/styles.css
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\assets\styles-1.css
+Content Type: text/css
+
+Uri: https://g59records.com/static/clippy/clippy.css
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\clippy\clippy-1.css
+Content Type: text/css
+
+Uri: https://g59records.com/static/clippy/clippy.min.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\clippy\clippy.min-1.js
 Content Type: application/javascript
 
-Uri: https://spworlds.ru/_app/immutable/chunks/auth-aa803006.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\auth-aa803006.js
+Uri: https://g59records.com/static/favicons/apple-touch-icon-114x114.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\favicons\apple-touch-icon-114x114-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/favicons/apple-touch-icon-120x120.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\favicons\apple-touch-icon-120x120-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/favicons/apple-touch-icon-144x144.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\favicons\apple-touch-icon-144x144-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/favicons/apple-touch-icon-152x152.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\favicons\apple-touch-icon-152x152-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/favicons/apple-touch-icon-57x57.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\favicons\apple-touch-icon-57x57-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/favicons/apple-touch-icon-60x60.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\favicons\apple-touch-icon-60x60-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/favicons/apple-touch-icon-72x72.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\favicons\apple-touch-icon-72x72-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/favicons/apple-touch-icon-76x76.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\favicons\apple-touch-icon-76x76-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/favicons/favicon-128.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\favicons\favicon-128-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/favicons/favicon-16x16.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\favicons\favicon-16x16-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/favicons/favicon-196x196.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\favicons\favicon-196x196-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/favicons/favicon-32x32.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\favicons\favicon-32x32-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/favicons/favicon-96x96.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\favicons\favicon-96x96-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/favicons/favicon.ico
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\favicons\favicon-1.ico
+Content Type: image/x-icon
+
+Uri: https://g59records.com/static/images/artistImages/fouplay.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\artistImages\fouplay-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/images/artistImages/max.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\artistImages\max-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/images/artistImages/rxmirez.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\artistImages\rxmirez-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/images/artistImages/sb.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\artistImages\sb-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/images/artistImages/tenshi.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\artistImages\tenshi-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/images/footer/x.svg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\footer\x-1.svg
+Content Type: image/svg+xml
+
+Uri: https://g59records.com/static/images/home/skull_sped.gif
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\home\skull_sped-1.gif
+Content Type: image/gif
+
+Uri: https://g59records.com/static/images/navigation/artists/crystalmeth.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\navigation\artists\crystalmeth.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/images/navigation/artists/foulplay_white.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\navigation\artists\foulplay_white.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/images/navigation/artists/maxbeck.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\navigation\artists\maxbeck.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/images/navigation/artists/rvmirxz.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\navigation\artists\rvmirxz.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/images/navigation/artists/suicideboys.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\navigation\artists\suicideboys-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/images/navigation/main/artists_white.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\navigation\main\artists_white.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/images/navigation/main/connect_white.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\navigation\main\connect_white.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/images/navigation/main/g59_white.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\navigation\main\g59_white-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/images/navigation/main/home_white.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\navigation\main\home_white.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/images/navigation/main/shop_white.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\navigation\main\shop_white.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/images/navigation/main/tour_white.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\navigation\main\tour_white.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/images/navigation/menu_white.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\navigation\menu_white.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/images/social/applemusic.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\social\applemusic-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/images/social/fb.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\social\fb-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/images/social/instagram.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\social\instagram-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/images/social/soundcloud.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\social\soundcloud-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/images/social/spotify.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\social\spotify-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/images/social/tumblr.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\social\tumblr-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/images/social/twitter.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\social\twitter-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/images/social/youtube.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\images\social\youtube-1.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/visuals/music/album.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\visuals\music\album.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/visuals/streaming/thumbnails/apple.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\visuals\streaming\thumbnails\apple.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/visuals/streaming/thumbnails/googleplay.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\visuals\streaming\thumbnails\googleplay.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/visuals/streaming/thumbnails/itunes.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\visuals\streaming\thumbnails\itunes.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/visuals/streaming/thumbnails/soundcloud.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\visuals\streaming\thumbnails\soundcloud.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/visuals/streaming/thumbnails/spotify.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\visuals\streaming\thumbnails\spotify.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/visuals/streaming/thumbnails/tidal.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\visuals\streaming\thumbnails\tidal.png
+Content Type: image/png
+
+Uri: https://g59records.com/static/visuals/streaming/thumbnails/youtube.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\static\visuals\streaming\thumbnails\youtube.png
+Content Type: image/png
+
+Uri: https://g59records.com/_next/ce330f49-b100-4262-9a80-f83eb1f2a5a6/page/artists.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\_next\ce330f49-b100-4262-9a80-f83eb1f2a5a6\page\artists.js
 Content Type: application/javascript
 
-Uri: https://spworlds.ru/_app/immutable/chunks/CardInput-f4051a6a.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\CardInput-f4051a6a.js
+Uri: https://g59records.com/_next/ce330f49-b100-4262-9a80-f83eb1f2a5a6/page/artists/artistDetails.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\_next\ce330f49-b100-4262-9a80-f83eb1f2a5a6\page\artists\artistDetails.js
 Content Type: application/javascript
 
-Uri: https://spworlds.ru/_app/immutable/chunks/Center-0b1c2bf9.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\Center-0b1c2bf9.js
+Uri: https://g59records.com/_next/ce330f49-b100-4262-9a80-f83eb1f2a5a6/page/_app.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\_next\ce330f49-b100-4262-9a80-f83eb1f2a5a6\page\_app-1.js
 Content Type: application/javascript
 
-Uri: https://spworlds.ru/_app/immutable/chunks/ColoredIcon-88991530.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\ColoredIcon-88991530.js
+Uri: https://g59records.com/_next/ce330f49-b100-4262-9a80-f83eb1f2a5a6/page/_error.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\_next\ce330f49-b100-4262-9a80-f83eb1f2a5a6\page\_error-1.js
 Content Type: application/javascript
 
-Uri: https://spworlds.ru/_app/immutable/chunks/Footer-e543b43a.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\Footer-e543b43a.js
+Uri: https://g59records.com/_next/static/commons/main-976390792032b147194b.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\_next\static\commons\main-976390792032b147194b-1.js
 Content Type: application/javascript
 
-Uri: https://spworlds.ru/_app/immutable/chunks/FormModal-51b61f82.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\FormModal-51b61f82.js
+Uri: https://js.adsrvr.org/up_loader.1.1.0.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\up_loader.1.1.0-1.js
+Content Type: application/x-javascript
+
+Uri: https://widget.seated.com/app.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\app-1.js
 Content Type: application/javascript
 
-Uri: https://spworlds.ru/_app/immutable/chunks/Header-ea2c7ca1.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\Header-ea2c7ca1.js
-Content Type: application/javascript
-
-Uri: https://spworlds.ru/_app/immutable/chunks/Icon-d4a9ed8c.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\Icon-d4a9ed8c.js
-Content Type: application/javascript
-
-Uri: https://spworlds.ru/_app/immutable/chunks/icons-a10bc4c8.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\icons-a10bc4c8.js
-Content Type: application/javascript
-
-Uri: https://spworlds.ru/_app/immutable/chunks/index-233a65d3.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\index-233a65d3.js
-Content Type: application/javascript
-
-Uri: https://spworlds.ru/_app/immutable/chunks/index-57bb6886.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\index-57bb6886.js
-Content Type: application/javascript
-
-Uri: https://spworlds.ru/_app/immutable/chunks/index-9be95f4f.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\index-9be95f4f.js
-Content Type: application/javascript
-
-Uri: https://spworlds.ru/_app/immutable/chunks/Modal-cbcc3831.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\Modal-cbcc3831.js
-Content Type: application/javascript
-
-Uri: https://spworlds.ru/_app/immutable/chunks/navigation-0e6511d1.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\navigation-0e6511d1.js
-Content Type: application/javascript
-
-Uri: https://spworlds.ru/_app/immutable/chunks/SelectInput-78abdaa2.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\SelectInput-78abdaa2.js
-Content Type: application/javascript
-
-Uri: https://spworlds.ru/_app/immutable/chunks/singletons-d1fb5791.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\singletons-d1fb5791.js
-Content Type: application/javascript
-
-Uri: https://spworlds.ru/_app/immutable/chunks/stores-7a7ccbfa.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\stores-7a7ccbfa.js
-Content Type: application/javascript
-
-Uri: https://spworlds.ru/_app/immutable/chunks/TextareaInput-45226e54.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\TextareaInput-45226e54.js
-Content Type: application/javascript
-
-Uri: https://spworlds.ru/_app/immutable/chunks/TextInput-a378f4e5.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\TextInput-a378f4e5.js
-Content Type: application/javascript
-
-Uri: https://spworlds.ru/_app/immutable/chunks/UserInput-45714a68.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\UserInput-45714a68.js
-Content Type: application/javascript
-
-Uri: https://spworlds.ru/_app/immutable/pages/index.svelte-d88552dc.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\pages\index.svelte-d88552dc.js
-Content Type: application/javascript
-
-Uri: https://spworlds.ru/_app/immutable/pages/info/_page_.svelte-cace836c.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\pages\info\_page_.svelte-cace836c.js
-Content Type: application/javascript
-
-Uri: https://spworlds.ru/_app/immutable/pages/__layout.svelte-2f6bbb81.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\pages\__layout.svelte-2f6bbb81.js
-Content Type: application/javascript
-
-Uri: https://spworlds.ru/_app/immutable/start-53aae112.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\start-53aae112.js
-Content Type: application/javascript
-
-Uri: https://static.cloudflareinsights.com/beacon.min.js
-File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\beacon.min.js
-Content Type: text/javascript
+Uri: https://www.facebook.com/tr?id=1792844990953028&ev=PageView&noscript=1
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\g59records.com\tr-1
+Content Type: image/gif
 
