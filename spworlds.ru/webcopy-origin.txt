@@ -1,0 +1,316 @@
+Uri: https://spworlds.ru/
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\index.htm
+Content Type: text/html
+
+Uri: https://spworlds.ru/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://spworlds.ru/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://spworlds.ru/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://spworlds.ru/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://spworlds.ru/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://spworlds.ru/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://spworlds.ru/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://spworlds.ru/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://spworlds.ru/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://spworlds.ru/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://spworlds.ru/cdn-cgi/l/email-protection
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://spworlds.ru/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://spworlds.ru/cdn-cgi/styles/cf.errors.css
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://spworlds.ru/img/5opka.webp
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\5opka.webp
+Content Type: image/webp
+
+Uri: https://spworlds.ru/img/apple-icon-180.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-icon-180.png
+Content Type: image/png
+
+Uri: https://spworlds.ru/img/apple-splash-1125-2436.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-1125-2436.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/apple-splash-1136-640.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-1136-640.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/apple-splash-1170-2532.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-1170-2532.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/apple-splash-1242-2208.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-1242-2208.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/apple-splash-1242-2688.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-1242-2688.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/apple-splash-1284-2778.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-1284-2778.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/apple-splash-1334-750.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-1334-750.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/apple-splash-1536-2048.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-1536-2048.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/apple-splash-1620-2160.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-1620-2160.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/apple-splash-1668-2224.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-1668-2224.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/apple-splash-1668-2388.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-1668-2388.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/apple-splash-1792-828.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-1792-828.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/apple-splash-2048-1536.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-2048-1536.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/apple-splash-2048-2732.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-2048-2732.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/apple-splash-2160-1620.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-2160-1620.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/apple-splash-2208-1242.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-2208-1242.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/apple-splash-2224-1668.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-2224-1668.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/apple-splash-2388-1668.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-2388-1668.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/apple-splash-2436-1125.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-2436-1125.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/apple-splash-2532-1170.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-2532-1170.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/apple-splash-2688-1242.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-2688-1242.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/apple-splash-2732-2048.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-2732-2048.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/apple-splash-2778-1284.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-2778-1284.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/apple-splash-640-1136.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-640-1136.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/apple-splash-750-1334.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-750-1334.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/apple-splash-828-1792.jpg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\apple-splash-828-1792.jpg
+Content Type: image/jpeg
+
+Uri: https://spworlds.ru/img/logo.png
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\logo.png
+Content Type: image/png
+
+Uri: https://spworlds.ru/img/logo.svg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://spworlds.ru/img/mastercard.svg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://spworlds.ru/img/mir.svg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\mir.svg
+Content Type: image/svg+xml
+
+Uri: https://spworlds.ru/img/tinkoff.svg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\tinkoff.svg
+Content Type: image/svg+xml
+
+Uri: https://spworlds.ru/img/visa.svg
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\img\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://spworlds.ru/info/dogovor
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\info\dogovor.html
+Content Type: text/html
+
+Uri: https://spworlds.ru/info/oplata
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\info\oplata.html
+Content Type: text/html
+
+Uri: https://spworlds.ru/info/privacy
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\info\privacy.html
+Content Type: text/html
+
+Uri: https://spworlds.ru/manifest.json
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\manifest.json
+Content Type: application/json
+
+Uri: https://spworlds.ru/_app/immutable/assets/pages/__layout.svelte-0b723b63.css
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\assets\pages\__layout.svelte-0b723b63.css
+Content Type: text/css
+
+Uri: https://spworlds.ru/_app/immutable/chunks/api-f05df814.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\api-f05df814.js
+Content Type: application/javascript
+
+Uri: https://spworlds.ru/_app/immutable/chunks/auth-aa803006.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\auth-aa803006.js
+Content Type: application/javascript
+
+Uri: https://spworlds.ru/_app/immutable/chunks/CardInput-f4051a6a.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\CardInput-f4051a6a.js
+Content Type: application/javascript
+
+Uri: https://spworlds.ru/_app/immutable/chunks/Center-0b1c2bf9.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\Center-0b1c2bf9.js
+Content Type: application/javascript
+
+Uri: https://spworlds.ru/_app/immutable/chunks/ColoredIcon-88991530.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\ColoredIcon-88991530.js
+Content Type: application/javascript
+
+Uri: https://spworlds.ru/_app/immutable/chunks/Footer-e543b43a.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\Footer-e543b43a.js
+Content Type: application/javascript
+
+Uri: https://spworlds.ru/_app/immutable/chunks/FormModal-51b61f82.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\FormModal-51b61f82.js
+Content Type: application/javascript
+
+Uri: https://spworlds.ru/_app/immutable/chunks/Header-ea2c7ca1.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\Header-ea2c7ca1.js
+Content Type: application/javascript
+
+Uri: https://spworlds.ru/_app/immutable/chunks/Icon-d4a9ed8c.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\Icon-d4a9ed8c.js
+Content Type: application/javascript
+
+Uri: https://spworlds.ru/_app/immutable/chunks/icons-a10bc4c8.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\icons-a10bc4c8.js
+Content Type: application/javascript
+
+Uri: https://spworlds.ru/_app/immutable/chunks/index-233a65d3.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\index-233a65d3.js
+Content Type: application/javascript
+
+Uri: https://spworlds.ru/_app/immutable/chunks/index-57bb6886.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\index-57bb6886.js
+Content Type: application/javascript
+
+Uri: https://spworlds.ru/_app/immutable/chunks/index-9be95f4f.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\index-9be95f4f.js
+Content Type: application/javascript
+
+Uri: https://spworlds.ru/_app/immutable/chunks/Modal-cbcc3831.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\Modal-cbcc3831.js
+Content Type: application/javascript
+
+Uri: https://spworlds.ru/_app/immutable/chunks/navigation-0e6511d1.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\navigation-0e6511d1.js
+Content Type: application/javascript
+
+Uri: https://spworlds.ru/_app/immutable/chunks/SelectInput-78abdaa2.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\SelectInput-78abdaa2.js
+Content Type: application/javascript
+
+Uri: https://spworlds.ru/_app/immutable/chunks/singletons-d1fb5791.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\singletons-d1fb5791.js
+Content Type: application/javascript
+
+Uri: https://spworlds.ru/_app/immutable/chunks/stores-7a7ccbfa.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\stores-7a7ccbfa.js
+Content Type: application/javascript
+
+Uri: https://spworlds.ru/_app/immutable/chunks/TextareaInput-45226e54.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\TextareaInput-45226e54.js
+Content Type: application/javascript
+
+Uri: https://spworlds.ru/_app/immutable/chunks/TextInput-a378f4e5.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\TextInput-a378f4e5.js
+Content Type: application/javascript
+
+Uri: https://spworlds.ru/_app/immutable/chunks/UserInput-45714a68.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\chunks\UserInput-45714a68.js
+Content Type: application/javascript
+
+Uri: https://spworlds.ru/_app/immutable/pages/index.svelte-d88552dc.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\pages\index.svelte-d88552dc.js
+Content Type: application/javascript
+
+Uri: https://spworlds.ru/_app/immutable/pages/info/_page_.svelte-cace836c.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\pages\info\_page_.svelte-cace836c.js
+Content Type: application/javascript
+
+Uri: https://spworlds.ru/_app/immutable/pages/__layout.svelte-2f6bbb81.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\pages\__layout.svelte-2f6bbb81.js
+Content Type: application/javascript
+
+Uri: https://spworlds.ru/_app/immutable/start-53aae112.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\_app\immutable\start-53aae112.js
+Content Type: application/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js
+File Name: C:\Users\drako\OneDrive\Рабочий стол\downsite\spworlds.ru\beacon.min.js
+Content Type: text/javascript
+
